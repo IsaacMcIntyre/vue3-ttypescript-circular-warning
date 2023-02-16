@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="jest tests" tests="1" failures="0" errors="0" time="2.955">
-  <testsuite name="HelloWorld component" errors="0" failures="0" skipped="0" timestamp="2023-02-14T16:18:48" time="1.435" tests="1">
-    <testcase classname="HelloWorld component renders" name="HelloWorld component renders" time="0.014">
+<testsuites name="jest tests" tests="1" failures="0" errors="0" time="3.219">
+  <testsuite name="HelloWorld component" errors="0" failures="0" skipped="0" timestamp="2023-02-16T09:15:06" time="1.467" tests="1">
+    <testcase classname="HelloWorld component renders" name="HelloWorld component renders" time="0.013">
     </testcase>
   </testsuite>
 </testsuites>

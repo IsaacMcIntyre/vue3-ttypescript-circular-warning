@@ -21,7 +21,7 @@ npm install
 To see warnings when running tests, to see the warnings jest cache should not be used. To run the tests with no cache and stacktrace, run the following:
 
 ```sh
-node --trace-warnings node_modules/.bin/jest --no-cache
+npm test
 ```
 
 
